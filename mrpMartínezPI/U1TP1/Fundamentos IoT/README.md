@@ -1,0 +1,1 @@
+Fundamentos de IoT y los tipos de impactos que generó
