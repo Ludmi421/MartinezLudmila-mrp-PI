@@ -1,3 +1,3 @@
-Introducción GIT Y GITHUB
+###Introducción GIT Y GITHUB
 
-Conceptos bascios
+###Conceptos basicos aprendidos
